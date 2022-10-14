@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jssc-2.9.4-sources.jar",
+        "firmata4j-2.3.8.jar",
+        "slf4j-jcl-1.7.3.jar"
+    ]
+}
